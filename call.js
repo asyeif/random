@@ -31,13 +31,11 @@ if(x=="7"){xxx="/2015/05/let-arrange-our-future_26.html"}
 if(x=="8"){xxx="/2015/03/how-easy-english-is_5.html"}
 if(x=="9"){xxx="/2015/03/everythings-are-easy_5.html"}
 if(x=="10"){xxx="/2015/03/how-hard-to-speak-in-english_5.html"}
- if(x=="10"){xxx="/2015/03/how-hard-to-speak-in-english_5.html"}
- if(x=="10"){xxx="/2015/02/google-adsense-gives-free-money-and-easy_16.html"}
- if(x=="10"){xxx="/2012/11/dreaming-is-my-life_24.html"}
- if(x=="10"){xxx="/2017/12/hostinger-satu-satunya-paling-hemat-dan_1.html"}
- if(x=="10"){xxx="/2017/04/farrah-gray-get-real-get-rich_6.html"}
- if(x=="10"){xxx="/2017/04/jamil-azzani-kubik-leadership_6.html"}
-a_to_ve[i].href="http://s.yucek.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="11"){xxx="/2015/02/google-adsense-gives-free-money-and-easy_16.html"}
+if(x=="12"){xxx="/2012/11/dreaming-is-my-life_24.html"}
+if(x=="13"){xxx="/2017/12/hostinger-satu-satunya-paling-hemat-dan_1.html"}
+if(x=="14"){xxx="/2017/04/farrah-gray-get-real-get-rich_6.html"}
+if(x=="15"){xxx="/2017/04/jamil-azzani-kubik-leadership_6.html"}a_to_ve[i].href="http://s.yucek.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)

@@ -22,7 +22,7 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*15)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/p/pos1.html"}
-if(x=="2"){xxx="/p/pos2.html"}
+if(x=="2"){xxx="/2018/02/tips-for-pregnant-women-in-beauty-treatment.html"}
 if(x=="3"){xxx="/p/pos3.html"}
 if(x=="4"){xxx="/p/pos4.html"}
 if(x=="5"){xxx="/p/pos5.html"}
